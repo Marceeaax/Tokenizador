@@ -1,3 +1,7 @@
-Buen día, mi nombre es Juan y estoy aquí para ayudarle. ¿Podría proporcionarme su documento o cédula, por favor?
-Gracias por esperar. Hemos registrado su solicitud y en breve le daremos una respuesta. ¿Hay algo más en lo que pueda asistirle?
-Hasta luego, que tenga un buen día.
+Buenos días, le saluda Joanna de atención al cliente, ¿en qué puedo ayudarle?
+Puedo darle esa información.Por favor, ¿me facilita su número de documento?
+Gracias, una pregunta de seguridad, ¿puede darme el año de su fecha de
+nacimiento?
+Gracias. Verifico que su saldo es de doscientos trienta mil guaraníes a la fecha de
+ayer. ¿Algo más que pueda hacer por usted?
+Gracias por llamar al servicio de atención al cliente. Que tenga un buen día.
